@@ -28,11 +28,15 @@ export function CorpusList({
             const match = BANDS.find((item) => item.id === band);
             return match ? match.layers.includes(node.layer) : true;
           });
-    const needle = query.trim().toLowerCase();
+    const needle = query
+      .trim()
+      .toLowerCase()
+      .replace(/\bprop\s*13\b/g, "proposition 13");
     if (!needle) return inBand;
     return inBand.filter((node) =>
       `${node.label} ${node.citation} ${node.summary} ${node.text || ""} ${node.id} ${node.layer}`
         .toLowerCase()
+        .replace(/\bprop\s*13\b/g, "proposition 13")
         .includes(needle),
     );
   }, [band, nodes, query]);
