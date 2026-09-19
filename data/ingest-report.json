@@ -1,0 +1,173 @@
+{
+  "graph_nodes": 544,
+  "text_kind": {
+    "catalog": 27,
+    "enacted": 472,
+    "holding": 26,
+    "note": 19
+  },
+  "remaining_catalog": [
+    {
+      "id": "people",
+      "type": "Actor",
+      "label": "The People",
+      "url": ""
+    },
+    {
+      "id": "mx:rancho-corte-madera",
+      "type": "Instrument",
+      "label": "Rancho Corte Madera del Presidio (Reed grant)",
+      "url": "https://www.sos.ca.gov/archives/collections/spanish-mexican-land-grant-maps"
+    },
+    {
+      "id": "ca",
+      "type": "Jurisdiction",
+      "label": "State of California",
+      "url": ""
+    },
+    {
+      "id": "zip:94920",
+      "type": "Jurisdiction",
+      "label": "ZIP Code 94920 (postal overlay, not a government)",
+      "url": ""
+    },
+    {
+      "id": "ca:marin",
+      "type": "Jurisdiction",
+      "label": "County of Marin",
+      "url": "https://www.marincounty.gov/"
+    },
+    {
+      "id": "ca:belvedere",
+      "type": "Jurisdiction",
+      "label": "City of Belvedere",
+      "url": "https://www.cityofbelvedere.org/"
+    },
+    {
+      "id": "ca:tiburon",
+      "type": "Jurisdiction",
+      "label": "Town of Tiburon",
+      "url": "https://www.townoftiburon.org/"
+    },
+    {
+      "id": "ca:paradise-cay",
+      "type": "Jurisdiction",
+      "label": "Paradise Cay (unincorporated) / CSA 29",
+      "url": "https://publicworks.marincounty.gov/paradise-cay-csa29/"
+    },
+    {
+      "id": "ca:strawberry",
+      "type": "Jurisdiction",
+      "label": "Strawberry (unincorporated pocket in 94920)",
+      "url": "https://www.marincounty.gov/"
+    },
+    {
+      "id": "profile:belvedere",
+      "type": "ParcelClass",
+      "label": "Homeowner profile \u2014 City of Belvedere",
+      "url": ""
+    },
+    {
+      "id": "profile:tiburon",
+      "type": "ParcelClass",
+      "label": "Homeowner profile \u2014 Town of Tiburon",
+      "url": ""
+    },
+    {
+      "id": "profile:paradise_cay",
+      "type": "ParcelClass",
+      "label": "Homeowner profile \u2014 Paradise Cay / CSA 29",
+      "url": ""
+    },
+    {
+      "id": "profile:strawberry",
+      "type": "ParcelClass",
+      "label": "Homeowner profile \u2014 unincorporated Strawberry pocket",
+      "url": ""
+    },
+    {
+      "id": "ca:belvedere:code:19.26",
+      "type": "Provision",
+      "label": "19.26 R-15 Zone",
+      "url": "https://belvedere.municipal.codes/Code/19.26"
+    },
+    {
+      "id": "ca:belvedere:code:19.26.010",
+      "type": "Provision",
+      "label": "19.26.010 Permitted uses",
+      "url": "https://belvedere.municipal.codes/Code/19.26.010"
+    },
+    {
+      "id": "ca:belvedere:code:19.26.020",
+      "type": "Provision",
+      "label": "19.26.020 Uses permitted under permit",
+      "url": "https://belvedere.municipal.codes/Code/19.26.020"
+    },
+    {
+      "id": "ca:belvedere:code:19.26.030",
+      "type": "Provision",
+      "label": "19.26.030 Prohibited uses",
+      "url": "https://belvedere.municipal.codes/Code/19.26.030"
+    },
+    {
+      "id": "ca:belvedere:code:19.32",
+      "type": "Provision",
+      "label": "19.32 R-3C Zone",
+      "url": "https://belvedere.municipal.codes/Code/19.32"
+    },
+    {
+      "id": "ca:belvedere:code:19.40",
+      "type": "Provision",
+      "label": "19.40 C-1 Zone",
+      "url": "https://belvedere.municipal.codes/Code/19.40"
+    },
+    {
+      "id": "ca:belvedere:code:19.78",
+      "type": "Provision",
+      "label": "19.78 Second Kitchens",
+      "url": "https://belvedere.municipal.codes/Code/19.78"
+    },
+    {
+      "id": "ca:marin:code:22I",
+      "type": "Provision",
+      "label": "22I Zoning (interim)",
+      "url": "https://library.municode.com/ca/marin_county/codes/municipal_code?nodeId=TIT22DECO"
+    },
+    {
+      "id": "dist:mmwd",
+      "type": "Jurisdiction",
+      "label": "Marin Municipal Water District",
+      "url": "https://www.marinwater.org/"
+    },
+    {
+      "id": "dist:csa29",
+      "type": "Jurisdiction",
+      "label": "County Service Area 29 \u2014 Paradise Cay",
+      "url": "https://publicworks.marincounty.gov/paradise-cay-csa29/"
+    },
+    {
+      "id": "dist:rwqcb2",
+      "type": "Jurisdiction",
+      "label": "SF Bay Regional Water Quality Control Board (Region 2)",
+      "url": "https://www.waterboards.ca.gov/sanfranciscobay/"
+    },
+    {
+      "id": "dist:calfire",
+      "type": "Jurisdiction",
+      "label": "CAL FIRE / State Responsibility Area overlay",
+      "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones"
+    },
+    {
+      "id": "dist:usace",
+      "type": "Jurisdiction",
+      "label": "U.S. Army Corps of Engineers, San Francisco District",
+      "url": "https://www.spn.usace.army.mil/"
+    },
+    {
+      "id": "dist:fema",
+      "type": "Jurisdiction",
+      "label": "FEMA / NFIP floodplain",
+      "url": "https://www.fema.gov/flood-insurance/work-with-nfip/national-flood-insurance-program"
+    }
+  ]
+}

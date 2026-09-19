@@ -43,6 +43,31 @@ Public enacted-text corpus only:
 - `data/issues.json` — structural flags (notes, not enacted text)
 - `data/profiles.json` — profile titles and blurbs
 - `data/graph.json` — full public knowledge graph (nodes, edges, authority paths)
+- `data/ingest-report.json` — last ingest counts and remaining catalog gaps
+
+Do not add LifeOS investigation packets, private evidence, deed/tax-lien screenshots, or CPRA drafts to this repo.
+
+## Ingest (official publishers)
+
+`scripts/ingest_corpus.py` fills catalog headings from official HTML/PDF. It does not invent law.
+
+```bash
+python3 scripts/ingest_corpus.py
+python3 scripts/ingest_corpus.py --only municode,belvedere,leginfo,cases,district
+```
+
+Publishers: CivicPlus Municode (Tiburon, Marin County), belvedere.municipal.codes (via Jina when Cloudflare blocks), California Legislative Counsel, OLRC / govinfo, eCFR, National Archives, U.S. Reports PDFs (Library of Congress and supremecourt.gov), Stanford SCOCAL, district code hosts (codepublishing / eCode360).
+
+PDF holdings need `pdftotext` (poppler-utils). HTTP responses are cached under `/tmp/civic-ingest-cache`.
+
+## License
+
+Public enacted-text corpus only:
+
+- `data/corpus_{profile}.json` — instrument / provision / jurisdiction rows for each profile
+- `data/issues.json` — structural flags (notes, not enacted text)
+- `data/profiles.json` — profile titles and blurbs
+- `data/graph.json` — full public knowledge graph (nodes, edges, authority paths)
 
 Do not add LifeOS investigation packets, private evidence, deed/tax-lien screenshots, or CPRA drafts to this repo.
 
