@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ingest HTTP cache (local)
+/scripts/ingest-cache/
+scripts/__pycache__/
