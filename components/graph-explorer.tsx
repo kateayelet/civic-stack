@@ -49,8 +49,8 @@ function RingMap({
   const active = hover || selectedId;
 
   return (
-    <div className="rounded-lg border border-[var(--line)] bg-[var(--panel)] overflow-hidden">
-      <svg viewBox="0 0 1040 1040" className="w-full h-auto max-h-[70vh] bg-[#fafaf9]">
+    <div className="rounded-lg border border-[var(--line)] bg-[#fafaf9] overflow-hidden">
+      <svg viewBox="0 0 1040 1040" className="w-full h-auto max-h-[70vh]">
         {layout.rings.map((layer, index) => (
           <circle
             key={layer}

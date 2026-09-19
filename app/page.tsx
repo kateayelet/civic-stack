@@ -28,7 +28,7 @@ export default async function HomePage({
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--muted)]">
             ZIP 94920 · Marin County
           </p>
-          <h1 className="text-4xl md:text-5xl mt-3 leading-[1.1] font-medium tracking-tight">
+          <h1 className="text-4xl md:text-5xl mt-3 leading-[1.08] font-medium tracking-tight text-[var(--fg)]">
             The law that claims the house.
           </h1>
           <p className="mt-4 text-[var(--muted)] text-base md:text-lg leading-relaxed max-w-xl">
