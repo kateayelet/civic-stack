@@ -1,0 +1,596 @@
+[
+  {
+    "id": "issue:three-city-halls",
+    "type": "Issue",
+    "label": "One ZIP, three sovereigns — notice and identity failure",
+    "layer": "issue",
+    "citation": "One ZIP, three sovereigns — notice and identity failure",
+    "summary": "94920 is a postal code, not a government. Belvedere, Tiburon, and unincorporated Marin issue different permits, police, and zoning. Residents, vendors, and even agencies routinely apply the wrong code. The graph treats this as a structural due-process/notice problem: a person cannot obey an unknown sovereign.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "authority",
+      "equal-protection"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "notice_failure",
+      "high"
+    ],
+    "kind": "notice_failure",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:agins-ghost",
+    "type": "Issue",
+    "label": "Agins v. Tiburon — the ZIP already produced the leading (later gutted) takings test",
+    "layer": "issue",
+    "citation": "Agins v. Tiburon — the ZIP already produced the leading (later gutted) takings test",
+    "summary": "Open-space zoning of Tiburon land went to the U.S. Supreme Court. Lingle (2005) buried Agins' 'substantially advances' test. Local open-space and design-review practices still talk as if aesthetic advancement were a takings defense. It is not.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "takings",
+      "open-space"
+    ],
+    "applies_to": [
+      "tiburon"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "taking",
+      "high"
+    ],
+    "kind": "taking",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:view-servitude",
+    "type": "Issue",
+    "label": "View protection as an uncompensated servitude",
+    "layer": "issue",
+    "citation": "View protection as an uncompensated servitude",
+    "summary": "Tiburon Chapter 15 creates a right to views/sunlight across a neighbor's lot and brands tree growth a public nuisance. Belvedere FAR exceptions require that primary views from adjacent properties not be significantly impaired (19.52.120). California Civil Code does not list a view easement among statutory servitudes. A new negative easement imposed by ordinance, without compensation, is a Cal. Const. art. I Â§ 19 'taken or damaged' question and a Penn Central / Cedar Point question.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "views",
+      "takings",
+      "trees"
+    ],
+    "applies_to": [
+      "tiburon",
+      "belvedere"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "taking",
+      "high"
+    ],
+    "kind": "taking",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:design-review-vagueness",
+    "type": "Issue",
+    "label": "Discretionary design review as void-for-vagueness / prior restraint",
+    "layer": "issue",
+    "citation": "Discretionary design review as void-for-vagueness / prior restraint",
+    "summary": "Belvedere Title 20 and 19.60.010 make design review a prerequisite to a building permit. Tiburon SPAR (16-52.020) plus story poles (16-50.070) plus neighbor notice make exterior change a political event. If criteria are aesthetic and non-objective, they fail due-process specificity and invite class-of-one discrimination (Olech, Yick Wo, Ganz). State housing law now requires objective standards for ADU/SB 9; the rest of the house is still under the old discretion engine.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "design-review",
+      "due-process"
+    ],
+    "applies_to": [
+      "tiburon",
+      "belvedere"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "due_process",
+      "high"
+    ],
+    "kind": "due_process",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:adu-preemption",
+    "type": "Issue",
+    "label": "ADU / SB 9 ministerial statutes vs local re-discretionizing",
+    "layer": "issue",
+    "citation": "ADU / SB 9 ministerial statutes vs local re-discretionizing",
+    "summary": "Gov. 65852.2, 65852.21, 66411.7, and PRC 21080 ministerial/CEQA off-ramps are general laws. Cal. Const. art. XI Â§ 7 forbids local ordinances in conflict with general laws. Belvedere 19.79.120 is candidly titled Preemption; Tiburon Ord. 616 N.S. (2026) replaces 16-52.100. Any extra design-review finding, parking trap, or owner-occupancy condition that conflicts is void. Scan every 'objective standard' that is not actually objective.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "adu",
+      "sb9",
+      "preemption"
+    ],
+    "applies_to": [
+      "tiburon",
+      "belvedere",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "preemption",
+      "high"
+    ],
+    "kind": "preemption",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:exactions",
+    "type": "Issue",
+    "label": "In-lieu fees, inclusionary, parking buyouts, ROW licenses as exactions",
+    "layer": "issue",
+    "citation": "In-lieu fees, inclusionary, parking buyouts, ROW licenses as exactions",
+    "summary": "Nollan, Dolan, Koontz, Ehrlich, Sheetz (2024), and Gov. 66000 require nexus and rough proportionality even for legislative fee schedules. Tiburon 16-70.080 in-lieu housing, 16-32.120 parking in-lieu, Belvedere revocable licenses for private improvements in the ROW (19.48.100 / planning handout), and MMWD/SD5 hookup conditions are all in the exaction bucket. A condition demanded because the board has leverage, not because the project caused the impact, is an unlawful taking of money or of an easement.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "exaction",
+      "takings"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "taking",
+      "high"
+    ],
+    "kind": "taking",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:prop13-stack",
+    "type": "Issue",
+    "label": "Prop 13 cap vs stacked parcel taxes, CSA, bonds, and Prop 218 end-runs",
+    "layer": "issue",
+    "citation": "Prop 13 cap vs stacked parcel taxes, CSA, bonds, and Prop 218 end-runs",
+    "summary": "Art. XIII A caps the 1% ad valorem rate; XIII C/D (Prop 218) require voter approval of general/special taxes and special-benefit for assessments. 94920 bills still stack: county, cities, RUSD, TamUHSD, MCCD, library, fire, sewer, CSA 29 dredging, transportation sales tax. Integrity risk: relabeling a tax as a 'fee' or 'assessment' without special benefit. Water/sewer rates must be cost-of-service (XIII D).",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "tax",
+      "prop-13",
+      "prop-218"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "tax_without_vote",
+      "high"
+    ],
+    "kind": "tax_without_vote",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:nuisance-redefinition",
+    "type": "Issue",
+    "label": "Local 'public nuisance' declarations that swallow Civil Code 3479–3482",
+    "layer": "issue",
+    "citation": "Local 'public nuisance' declarations that swallow Civil Code 3479–3482",
+    "summary": "Gov. 38771 lets cities declare nuisances; Civ. 3482 says that which is done under statutory authority is not a nuisance. Tiburon 15-4 declares view-blocking trees a public nuisance. Belvedere 19.92.040 declares zoning violations nuisances. Using nuisance abatement (and admin citations 53069.4) to enforce aesthetic preference, or to punish a state-authorized ADU/SB 9 use, is ultra vires and a taking-or-damage.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "nuisance",
+      "ultra-vires"
+    ],
+    "applies_to": [
+      "tiburon",
+      "belvedere"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "ultra_vires",
+      "high"
+    ],
+    "kind": "ultra_vires",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:selective-enforcement",
+    "type": "Issue",
+    "label": "Class-of-one / Yick Wo risk in discretionary land use",
+    "layer": "issue",
+    "citation": "Class-of-one / Yick Wo risk in discretionary land use",
+    "summary": "Where a board may lawfully say yes or no on aesthetics, it may also say yes to friends and no to critics. Ganz already pleaded this in Belvedere. Olech makes a class-of-one theory available. Integrity tracking here means: compare like permits, Brown Act serial meetings, ex parte with neighbors, and 'view' findings that track social power rather than a map.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "equal-protection",
+      "corruption"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "equal_protection",
+      "high"
+    ],
+    "kind": "equal_protection",
+    "severity": "high",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:bcdc-vs-ccc",
+    "type": "Issue",
+    "label": "BCDC shoreline band confused with Coastal Act",
+    "layer": "issue",
+    "citation": "BCDC shoreline band confused with Coastal Act",
+    "summary": "McAteer-Petris (Gov. 66600) and the Coastal Act (PRC 30000) are different statutes, different maps, different agencies. 94920 bayfront is generally BCDC plus Corps, not CCC. Applying Coastal Act findings, or ignoring BCDC because 'this isn't the coast,' both produce illegal docks and illegal denials.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "bcdc",
+      "coastal",
+      "shoreline"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "contradiction",
+      "medium"
+    ],
+    "kind": "contradiction",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:building-amendments",
+    "type": "Issue",
+    "label": "Extra local permit culture vs HSC 17958 findings requirement",
+    "layer": "issue",
+    "citation": "Extra local permit culture vs HSC 17958 findings requirement",
+    "summary": "Tiburon publicly says it requires permits that other cities do not, citing geology, topography, climate, views, privacy, and aesthetics. HSC 17958 allows local building-standard amendments only for climatic, geological, or topographical conditions with express findings. Views, privacy, and aesthetics are not those three. Aesthetic extra permits belong in zoning, and then must survive XI § 7, due process, and takings — they are not building standards.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "building",
+      "ultra-vires"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "ultra_vires",
+      "medium"
+    ],
+    "kind": "ultra_vires",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:str-ban",
+    "type": "Issue",
+    "label": "Vacation-rental prohibition as a use stick removed from the bundle",
+    "layer": "issue",
+    "citation": "Vacation-rental prohibition as a use stick removed from the bundle",
+    "summary": "Tiburon 16-40.042 prohibits vacation rentals. Euclid allows use zoning; Lucas does not automatically compensate a partial use ban. Still a Penn Central burden, and a Costa-Hawkins / speech (home-sharing ads) overlay. Track as a taking-or-damage candidate, not a concluded taking.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "rental",
+      "takings"
+    ],
+    "applies_to": [
+      "tiburon"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "taking",
+      "medium"
+    ],
+    "kind": "taking",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:otard",
+    "type": "Issue",
+    "label": "Antenna/dish aesthetic bans vs federal OTARD",
+    "layer": "issue",
+    "citation": "Antenna/dish aesthetic bans vs federal OTARD",
+    "summary": "47 CFR 1.4000 preempts most HOA and local restrictions on over-the-air reception devices. Design-review 'neighborhood character' findings against a dish are often void.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "preemption",
+      "hoa"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "preemption",
+      "medium"
+    ],
+    "kind": "preemption",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:indemnification",
+    "type": "Issue",
+    "label": "Permit indemnification clauses shifting constitutional liability",
+    "layer": "issue",
+    "citation": "Permit indemnification clauses shifting constitutional liability",
+    "summary": "Tiburon 16-64.080 (indemnification) and similar conditions of approval force the applicant to defend the Town. As a structure, this deters as-applied challenges to exactions and takings (Nollan/Dolan) and is a First Amendment petition burden. Not a finding of bribery; it is a finding of a stacked deck.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "corruption",
+      "due-process"
+    ],
+    "applies_to": [
+      "tiburon"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "corruption_structure",
+      "medium"
+    ],
+    "kind": "corruption_structure",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:title-chain",
+    "type": "Issue",
+    "label": "Mexican grant / Treaty title vs later police-power amnesia",
+    "layer": "issue",
+    "citation": "Mexican grant / Treaty title vs later police-power amnesia",
+    "summary": "94920 fee simple is not a federal homestead. It is a Treaty-protected Mexican rancho chain (Corte Madera del Presidio) confirmed under the 1851 Land Act. Police power can regulate; it does not get to pretend the title was a gift from City Hall. Gion implied-dedication and BCDC public-access conditions must be read against Civ. 1009 and the Treaty.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "title",
+      "treaty"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "title_cloud",
+      "medium"
+    ],
+    "kind": "title_cloud",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:charter-temptation",
+    "type": "Issue",
+    "label": "General-law cities reaching for charter-city tax powers",
+    "layer": "issue",
+    "citation": "General-law cities reaching for charter-city tax powers",
+    "summary": "Both municipalities are general-law. They do not have Art. XI Â§ 5 municipal-affairs extra power. Attempts to levy taxes or real-property transfer taxes available only to charter cities (a live Belvedere debate in the 2020s) are ultra vires unless the voters adopt a charter and the tax otherwise satisfies XIII C.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "charter",
+      "tax"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "ultra_vires",
+      "medium"
+    ],
+    "kind": "ultra_vires",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:ceqa-weapon",
+    "type": "Issue",
+    "label": "CEQA on discretionary design review used to veto housing the state has commanded",
+    "layer": "issue",
+    "citation": "CEQA on discretionary design review used to veto housing the state has commanded",
+    "summary": "CEQA applies to discretionary projects. That is why local governments fight to keep SPAR discretionary. Ministerial ADU/SB 9 is a CEQA off-ramp (PRC 21080). Using 'incomplete application' loops and aesthetic CEQA to relitigate density is a structural conflict with the Housing Element / Housing Accountability Act cluster in the Government Code.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "ceqa",
+      "housing"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "preemption",
+      "medium"
+    ],
+    "kind": "preemption",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:fire-insurance-squeeze",
+    "type": "Issue",
+    "label": "Defensible-space mandates + insurer retreat as a pincer",
+    "layer": "issue",
+    "citation": "Defensible-space mandates + insurer retreat as a pincer",
+    "summary": "Gov. 51182 / PRC 4291 command clearance. TFPD inspects. Insurers use the same maps to non-renew. The homeowner is ordered to alter the lot and simultaneously cannot buy the insurance the lender requires. Not a completed legal taking, but a tracked pincer: unfunded mandate plus market-forced loss of a financeable fee.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "fire",
+      "insurance",
+      "takings"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "taking",
+      "medium"
+    ],
+    "kind": "taking",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  },
+  {
+    "id": "issue:brown-act",
+    "type": "Issue",
+    "label": "Serial meetings, design-review ex parte, and closed-session overuse",
+    "layer": "issue",
+    "citation": "Serial meetings, design-review ex parte, and closed-session overuse",
+    "summary": "Gov. 54950 et seq. bind city councils, planning commissions, design review boards, fire and sanitary boards, MMWD, BCDC. Integrity pattern: neighbor lobbying of individual DRB members, walking quorums, and closed sessions labeled 'litigation' that are actually project negotiations. CPRA (Gov. 7920) is the audit tool.",
+    "text": "",
+    "url": "",
+    "jurisdiction": "94920",
+    "year": "",
+    "topics": [
+      "brown-act",
+      "corruption"
+    ],
+    "applies_to": [
+      "belvedere",
+      "tiburon",
+      "paradise_cay",
+      "strawberry"
+    ],
+    "coverage": "excerpt",
+    "flags": [
+      "corruption_structure",
+      "medium"
+    ],
+    "kind": "corruption_structure",
+    "severity": "medium",
+    "status": "structural",
+    "text_kind": "note",
+    "text_source": "Structural flag (not enacted text). Open the flagged instruments for the law."
+  }
+]

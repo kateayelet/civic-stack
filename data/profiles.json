@@ -1,0 +1,22 @@
+{
+  "belvedere": {
+    "title": "City of Belvedere",
+    "sovereign": "Belvedere Municipal Code",
+    "blurb": "Island and lagoon. Own city hall, planning, building, and police. General-law city since 1896."
+  },
+  "tiburon": {
+    "title": "Town of Tiburon",
+    "sovereign": "Tiburon Code of Ordinances",
+    "blurb": "Peninsula town since 1964. Agins was litigated against this government. SPAR design review plus a view-from-trees ordinance."
+  },
+  "paradise_cay": {
+    "title": "Paradise Cay / CSA 29",
+    "sovereign": "Marin County Code (not Tiburon)",
+    "blurb": "Unincorporated canal lots. County building and zoning. CSA 29 dredges. Surrounded by Tiburon, not governed by it."
+  },
+  "strawberry": {
+    "title": "Unincorporated Strawberry pocket",
+    "sovereign": "Marin County Code",
+    "blurb": "North-peninsula unincorporated land in the same ZIP. County Title 22 and often Richardson Bay Sanitary."
+  }
+}
